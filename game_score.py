@@ -1,4 +1,5 @@
-
+"""McKenna Wall
+"""
 class play_game:
     """Starts with score, loops till loss, calcs score.
     """
